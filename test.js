@@ -1,1 +1,2 @@
-alert("test")
+var name = "natchapolk"
+alert(name)
